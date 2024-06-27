@@ -13,7 +13,7 @@ public class SquareWithReturn {
     public decimal area(){
         
         //logic to calculate area of a square
-        integer areaOfSquare = 4*side;
+        integer areaOfSquare = 4*side*side;
         return areaOfSquare;
         
     }
