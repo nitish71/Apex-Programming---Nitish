@@ -14,6 +14,7 @@ public class CreatingAccountsList {
             myAcc.AnnualRevenue = 1824900;
             myAcc.Active__c = 'Yes';
             myAcc.Industry = 'Manufacturing';
+            myAcc.Phone = '8679576567';
             
             accList.add(myAcc);
             
