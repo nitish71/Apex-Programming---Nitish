@@ -8,7 +8,7 @@ public class createTenOpportunity {
         for(integer i = 1; i <= 10; i++){
             
             Opportunity myOpp = new Opportunity();
-            myOpp.Name = 'Patna Toys';
+            myOpp.Name = 'Delhi Toys';
             myOpp.StageName = 'Closed Won';
             myOpp.CloseDate = system.today();
             myOpp.Amount = 902188;
