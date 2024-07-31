@@ -9,7 +9,7 @@ public class VoteEligibiltyUsingStatic {
         }
         
         else{
-            system.debug('Person is not eligible to vote');
+            system.debug('Person is not eligible to vote this year...');
         }
     }
 
