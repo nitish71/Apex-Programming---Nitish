@@ -16,7 +16,7 @@ public class SimpleInterest33 {
         //add logic to calculate
         integer interestAmount = (amount*rate*timee)/100;
         
-        system.debug('Simple interest for given amount and time will be '+ interestAmount);
+        system.debug('Simple interest for given amount ,rate and time will be '+ interestAmount);
         
     }
 
