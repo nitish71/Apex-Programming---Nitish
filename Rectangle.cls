@@ -12,7 +12,7 @@ public class Rectangle1 {
         width = 10;
         
         integer A = length*width;
-        system.debug('Area of rectangle is ' + A);
+        system.debug('Area of rectangle will' + A);
     }
     
     //This is a method for perimeter calculation
