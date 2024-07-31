@@ -13,7 +13,7 @@ public class CircleWithStatic {
     public static void perimeter(decimal radius){
         
         decimal P = 2*3.14*radius;
-        system.debug('Perimeter of circle is '+ P);
+        system.debug('Perimeter of circle will be '+ P);
     }
     
     
